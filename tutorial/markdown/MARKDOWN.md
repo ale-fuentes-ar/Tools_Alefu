@@ -8,15 +8,14 @@
 
 # links
 
-* [Shields IO](https://shields.io/){:target="_blank"} util tools for add flag in our document.
-* [Google](https://google.com" target="_blank)
-* [Simple Icons][link-simpleIcons]{:target="_blank"} great site where can get popular brands.
-* [Emojis][link-emoji]{:target="_blank"} listing emojis for our markdown documents.
+* [Shields IO][link-shield] util tools for add flag in our document.
+* [Simple Icons][link-simpleIcons] great site where can get popular brands.
+* [Emojis][link-emoji] listing emojis for our markdown documents.
 
 
 
 <!-- links -->
 [link-home]: ../../README.md
-[link-shield]: https://shields.io/
-[link-simpleIcons]: https://simpleicons.org/
-[link-emoji]: https://gist.github.com/rxaviers/7360908#file-gistfile1-md
+[link-shield]: https://shields.io/?target=_blank
+[link-simpleIcons]: https://simpleicons.org/?target=_blank
+[link-emoji]: https://gist.github.com/rxaviers/7360908#file-gistfile1-md/?target=_blank
