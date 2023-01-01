@@ -8,9 +8,9 @@
 
 # links
 
-* [Shields IO][link-shield] util tools for add flag in our document.
-* [Simple Icons][link-simpleIcons] great site where can get popular brands.
-* [Emojis][link-emoji] listing emojis for our markdown documents.
+* [Shields IO]([link-shield]) util tools for add flag in our document.
+* [Simple Icons]([link-simpleIcons]) great site where can get popular brands.
+* [Emojis]([link-emoji]) listing emojis for our markdown documents.
 
 
 
