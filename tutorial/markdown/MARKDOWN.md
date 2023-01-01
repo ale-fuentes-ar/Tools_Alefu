@@ -8,11 +8,14 @@
 
 # links
 
-* [shieldsIO][link-shield] util tools for add flag in our document.
-* [simpleIcons][link-simpleIcons] great site where can get popular brands.
+* [Shields IO][link-shield] util tools for add flag in our document.
+* [Simple Icons][link-simpleIcons] great site where can get popular brands.
+* [Emojis][link-emoji] listing emojis for our markdown documents.
+
 
 
 <!-- links -->
 [link-home]: ../../README.md
 [link-shield]: https://shields.io/
 [link-simpleIcons]: https://simpleicons.org/
+[link-emoji]: https://gist.github.com/rxaviers/7360908#file-gistfile1-md
