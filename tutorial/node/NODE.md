@@ -46,49 +46,49 @@
     ```
 
 * some commands:
-```shell
-# listing remote version
-nvm list-remote
+    ```shell
+    # listing remote version
+    nvm list-remote
 
-# install one version
-nvm install v18.12.1
+    # install one version
+    nvm install v18.12.1
 
-# listing all version installed
-nvm list
+    # listing all version installed
+    nvm list
 
-# for use node system version
-nvm use system
+    # for use node system version
+    nvm use system
 
-# install default
-nvm install lts/fermium
+    # install default
+    nvm install lts/fermium
 
-mvn list
-# output
-->     v14.21.2
-         system
-default -> lts/fermium (-> v14.21.2)
-iojs -> N/A (default)
-unstable -> N/A (default)
-node -> stable (-> v14.21.2) (default)
-stable -> 14.21 (-> v14.21.2) (default)
-lts/* -> lts/hydrogen (-> N/A)
-lts/argon -> v4.9.1 (-> N/A)
-lts/boron -> v6.17.1 (-> N/A)
-lts/carbon -> v8.17.0 (-> N/A)
-lts/dubnium -> v10.24.1 (-> N/A)
-lts/erbium -> v12.22.12 (-> N/A)
-lts/fermium -> v14.21.2
-lts/gallium -> v16.19.0 (-> N/A)
-lts/hydrogen -> v18.12.1 (-> N/A)
+    mvn list
+    # output
+    ->     v14.21.2
+            system
+    default -> lts/fermium (-> v14.21.2)
+    iojs -> N/A (default)
+    unstable -> N/A (default)
+    node -> stable (-> v14.21.2) (default)
+    stable -> 14.21 (-> v14.21.2) (default)
+    lts/* -> lts/hydrogen (-> N/A)
+    lts/argon -> v4.9.1 (-> N/A)
+    lts/boron -> v6.17.1 (-> N/A)
+    lts/carbon -> v8.17.0 (-> N/A)
+    lts/dubnium -> v10.24.1 (-> N/A)
+    lts/erbium -> v12.22.12 (-> N/A)
+    lts/fermium -> v14.21.2
+    lts/gallium -> v16.19.0 (-> N/A)
+    lts/hydrogen -> v18.12.1 (-> N/A)
 
 
-# set default
-nvm use v14.10.0
+    # set default
+    nvm use v14.10.0
 
-node -v
-# output
-v14.10.0
-```
+    node -v
+    # output
+    v14.10.0
+    ```
 
 ## Uninstall
 
