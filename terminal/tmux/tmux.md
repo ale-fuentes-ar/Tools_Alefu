@@ -39,7 +39,7 @@ in te example has two bash windows (`o:bash`, `1:bash`), and the second windows 
 
 * for change between windows: `CTRL + B` and after number of screen (0, 1, so on)
 * for change name os windows: `CTRL + B` and after comma `,`, next write name has we will want.
-* for navigate trought screen: `CTRL + B` and after `[` key. For exit press `q`.
+* for navigate trought screen (scrolling): `CTRL + B` and after `[` key. For exit press `q`.
 * for close window: use command `exit`
 
 **Session if a great featuren of tmux**
